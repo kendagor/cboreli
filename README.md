@@ -13,6 +13,20 @@ The following data types are currently supported. More to follow.
  - 7 null
  - 7 undefined
  - 7 ieee_754 32,64-bit floats
+ 
+### Build
+Verified to build correctly in ubuntu linux. You'll need:
+- gcc or clang
+- cmake
+
+Take a look at build.sh and build_clang.sh
+You could also simply use those scripts to build as well
+'''
+sh build.sh
+'''
+
+
+#### 
 
 #### Examples
 The tests illustrate how the library could be used.
