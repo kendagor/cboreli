@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_cboreli.a  CMakeFiles/_cboreli.dir/endian.cpp.o CMakeFiles/_cboreli.dir/cbor_header_uint.cpp.o CMakeFiles/_cboreli.dir/cbor_header_float.cpp.o CMakeFiles/_cboreli.dir/codec_result.cpp.o CMakeFiles/_cboreli.dir/data_item.cpp.o CMakeFiles/_cboreli.dir/encoder.cpp.o CMakeFiles/_cboreli.dir/encoder_numbers.cpp.o CMakeFiles/_cboreli.dir/encoder_containers.cpp.o CMakeFiles/_cboreli.dir/encoder_strings.cpp.o CMakeFiles/_cboreli.dir/decoder.cpp.o
+/usr/bin/ranlib lib_cboreli.a
