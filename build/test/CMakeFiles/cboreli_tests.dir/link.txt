@@ -1,1 +1,0 @@
-/usr/bin/c++    -g -fPIC -std=c++14 -g -g -fPIC -std=c++14   CMakeFiles/cboreli_tests.dir/main.cpp.o  -o cboreli_tests ../src/lib_cboreli.a 
