@@ -79,7 +79,10 @@ This library may change often if anyone has cloned it, please
 let me know so that I can start branching to minimize breaking changes :)
 
 #### Contributions welcome
-* Some effort to simplify the API, I'll get to this at some point but you can help today!
+* Simplify the API even more to look easy using C++14 syntax
+* Streams support
+* CBOR major_type 6
+* Fix reported issues
 
 I would also like to bring to your attention a test site developed by
 the author of the CBOR RFC:
