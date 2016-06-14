@@ -1,4 +1,4 @@
-# CBOR library
+# [CBOR](http://cbor.io) library
 A C++ implementation of [CBOR](http://tools.ietf.org/html/rfc7049) specification.
 
 #### Current status:
@@ -84,9 +84,10 @@ let me know so that I can start branching to minimize breaking changes :)
 * CBOR major_type 6
 * Fix reported issues
 
-I would also like to bring to your attention a test site developed by
-the author of the CBOR RFC:
-http://cbor.me
+I would also like to bring to your attention:
+* a test site developed by the author of the CBOR RFC: http://cbor.me
+* Updated RFC with errata fixed: https://github.com/cbor/spec-with-errata-fixed
+
 
 Thanks!
 
