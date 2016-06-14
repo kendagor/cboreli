@@ -72,6 +72,9 @@ if (res->data == nullptr){
 
 // A byte array of the data in CBOR format
 return res->data->to_cbor();
+
+// or return the entire cummulative root CBOR blob:
+return e.root_item()->to_cbor();
 ```
 
 #### Progress
