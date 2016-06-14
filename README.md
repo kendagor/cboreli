@@ -78,10 +78,13 @@ return res->data->to_cbor();
 This library may change often if anyone has cloned it, please
 let me know so that I can start branching to minimize breaking changes :)
 
+#### Contributions welcome
+* Some effort to simplify the API, I'll get to this at some point but you can help today!
+
 I would also like to bring to your attention a test site developed by
 the author of the CBOR RFC:
 http://cbor.me
 
 Thanks!
 
-Kendagor
+Elisha Kendagor
