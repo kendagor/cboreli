@@ -1,5 +1,5 @@
 # CBOR library
-An C++ implementation of [CBOR](http://tools.ietf.org/html/rfc7049) specification.
+A C++ implementation of [CBOR](http://tools.ietf.org/html/rfc7049) specification.
 
 #### Current status:
 The following data types are currently supported. More to follow.
