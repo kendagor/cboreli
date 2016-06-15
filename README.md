@@ -85,6 +85,7 @@ let me know so that I can start branching to minimize breaking changes :)
 * Simplify the API even more to look easy using C++14 syntax
 * Streams support
 * CBOR major_type 6
+* to_json()
 * Fix reported issues
 
 I would also like to bring to your attention:
