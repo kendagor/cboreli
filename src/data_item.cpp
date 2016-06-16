@@ -323,8 +323,6 @@ int64_t data_item::value_int(){
     }
 }
 
-int64_t data_item::value_int();
-
 bool data_item::value_bool(){
     if (value_type == t_bool){
         return v_boolean;
