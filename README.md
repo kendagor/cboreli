@@ -77,10 +77,6 @@ return res->data->to_cbor();
 return e.root_item()->to_cbor();
 ```
 
-#### Progress
-This library may change often if anyone has cloned it, please
-let me know so that I can start branching to minimize breaking changes :)
-
 #### Contributions welcome
 * Simplify the API even more to look easy using C++14 syntax
 * Streams support
