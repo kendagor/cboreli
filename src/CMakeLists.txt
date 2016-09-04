@@ -52,7 +52,8 @@ set (include_files
     codec_result.h
     data_item.h
     data_types.h
-    random_number.h)
+    random_number.h
+    endian.h)
 
 set (include_dir include/cboreli)
 
