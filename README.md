@@ -78,14 +78,14 @@ return e.root_item()->to_cbor();
 ```
 
 #### Contributions welcome
-* Simplify the API even more to look easy using C++14 syntax
 * Streams support
 * CBOR major_type 6
 * to_json()
 * Fix reported issues
 
-I would also like to bring to your attention:
-* a test site developed by the author of the CBOR RFC: http://cbor.me
+Relevant links:
+* CBOR homepage: http://cbor.io
+* A test site developed by the author of the CBOR RFC: http://cbor.me
 * Updated RFC with errata fixed: https://github.com/cbor/spec-with-errata-fixed
 
 
