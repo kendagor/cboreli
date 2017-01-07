@@ -50,14 +50,14 @@ auto temp_f = e.add_uint(u8"temperature", 81);
 
 // Create some items without appending to the root map item '{ ... }'
 e.root_item_append(false);
-auto name = e.add_utf8_string(u8"name", u8"Elisha");
-auto city = e.add_utf8_string(u8"city", u8"NY");
+auto person = e.add_utf8_string(u8"name", u8"Elisha");
+auto location = e.add_utf8_string(u8"city", u8"Fuquay Varina");
 
 // Resuming append to root map item
 e.root_item_append(true)
 map_items fans;
-fans["name"] = name;
-fans["city"] = city;
+fans["person"] = person;
+fans["location"] = location;
 auto res = e.add_items_map("Fans", fans);
 
 // Encoder returns a codec_result:
